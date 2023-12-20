@@ -3,4 +3,3 @@
 
 ![dhflekddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhflekddy&count_private=true)
 
-![FlexyDuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhflekddy&show_icons=true)
